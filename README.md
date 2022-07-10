@@ -4,7 +4,7 @@
 * builder
 * factory method
 * prototype
-* singleton (treat-safe)
+* singleton (thread-safe)
 
 ## Structural
 * adapter
